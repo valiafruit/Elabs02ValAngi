@@ -37,4 +37,8 @@ public class Main {
         System.out.println(b1.toString());
     }
     
+    public static void blob(){
+        
+    }
+    
 }
