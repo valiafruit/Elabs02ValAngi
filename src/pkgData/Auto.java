@@ -39,7 +39,9 @@ public class Auto {
     public void setDate(LocalDate Date) {
         this.Date = Date;
     }
-
+    public void Nothing(){
+        
+    }
     public String getType() {
         return Type;
     }

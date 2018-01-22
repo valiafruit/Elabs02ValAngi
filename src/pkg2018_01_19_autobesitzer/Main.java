@@ -25,6 +25,7 @@ public class Main {
         Auto a1 = new Auto(123, LocalDate.parse("18.02.1999", dtf) , "BWM X5");
         Auto a2 = new Auto(234, LocalDate.parse("25.10.2005", dtf) , "Audi A3");
         Auto a3 = new Auto(345, LocalDate.parse("13.06.2016", dtf) , "Jeep Wrangler");
+        Auto a4 = new Auto(346, LocalDate.parse("13.06.2016", dtf) , "Jeep Wrangler");
         
         HashSet<Auto> autos = new HashSet<Auto>();
         autos.add(a1);
